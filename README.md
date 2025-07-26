@@ -1,6 +1,6 @@
 # Covid19 Detection Using Machine Learning
 ## Introduction
-This Repository consists of my [Innovation Lab Project](https://docs.google.com/presentation/d/1LPq08cP0Z1bEI-OKVU-tCAihWARn7QuL3_DimFe0mtQ/edit#slide=id.g127b2ed826e_0_0)  **Covid19 Detection Using Machine Learning**.The project aims to accuratley classify whether a patient is  Covid19 positive or negative, using Multi Modal Machine Learning Model.The Modalities used here are X Rays, CT Scans and Clinical Data. The repository has the following contents:
+This Repository consists of my [Innovation Lab Project](https://docs.google.com/presentation/d/1LPq08cP0Z1bEI-OKVU-tCAihWARn7QuL3_DimFe0mtQ/edit#slide=id.g127b2ed826e_0_0)  **Covid19 Detection Using Multimodal Machine Learning**.The project aims to accuratley classify whether a patient is  Covid19 positive or negative, using Multi Modal Machine Learning Model.The Modalities used here are X Rays, CT Scans and Clinical Data. The repository has the following contents:
 ### 1)Dataset
 ### 2)Implementations
 ### 3)References
